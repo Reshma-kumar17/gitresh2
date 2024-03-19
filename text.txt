@@ -1,2 +1,1 @@
-hello there
-its such a boring day
+city:bengaluru
